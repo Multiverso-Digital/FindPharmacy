@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+      android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+ 
+    
+    
+    
+    
+    <com.loopj.android.image.SmartImageView
+    android:id="@+id/appIcon" 
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"  
+        android:textSize="12dp"   
+        android:src="@drawable/talk"
+        android:layout_marginLeft="3dp"
+        android:layout_marginTop="3dp" />
+    <TextView
+        android:id="@+id/titleTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/appIcon"
+        android:layout_toRightOf="@id/appIcon"
+        android:layout_marginLeft="3dp"
+        android:text="Application Title"
+        android:textColor="@color/textoende"
+        android:textSize="12dp"/>
+    <TextView
+        android:id="@+id/endeTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/appIcon"
+         android:layout_below="@id/titleTxt"
+        android:layout_marginLeft="3dp"
+        android:text="Application Title"
+         android:textColor="@color/textotip"
+        android:textSize="10dp"/>
+    
+</RelativeLayout>
+ 

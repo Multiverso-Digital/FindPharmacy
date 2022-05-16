@@ -1,0 +1,120 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splash"
+    tools:context=".MainActivity" >   
+    
+    
+    <RelativeLayout     
+    android:id="@+id/linearLayout0"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" 
+    android:layout_marginBottom="160dp" 
+    android:gravity="bottom"
+    android:layout_alignParentBottom="true"
+    android:orientation="horizontal" >
+    
+       
+      <TextView 
+        android:text="@string/locationfind" 
+        android:id="@+id/TextView" 
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content" 
+        android:textStyle="bold"        
+        android:layout_marginLeft="5dp"/> 
+    
+    </RelativeLayout>
+    
+  <LinearLayout 
+    android:id="@+id/linearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" 
+    android:layout_marginBottom="20dp" 
+    android:gravity="bottom"
+    android:layout_alignParentBottom="true"
+    android:layout_above="@id/linearLayout0" 
+    >
+
+
+   
+        <EditText
+            android:id="@+id/edit_local"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="ex: paris, fr"
+            android:inputType="text"
+            android:layout_marginRight="5dp"
+             android:layout_marginLeft="5dp"
+            android:ems="10" />
+        
+           <Button
+            android:id="@+id/calc_clear_txt_Prise"
+            android:layout_width="32dp"
+            android:layout_height="32dp"          
+            android:layout_marginLeft="-40dp"
+            android:background="@drawable/search"
+            android:clickable="true"
+            android:onClick="otherlocClick" />
+
+  </LinearLayout>
+  
+  
+
+  
+  
+     <LinearLayout     
+    android:id="@+id/linearLayout010"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" 
+    android:layout_marginBottom="70dp" 
+    android:gravity="bottom"
+    android:layout_alignParentBottom="true"
+    android:layout_marginTop="20dp">
+    
+    <TextView android:text="@string/searchanother" 
+        android:id="@+id/TextView10"
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content" 
+        android:textStyle="bold"        
+        android:layout_marginLeft="5dp"     
+        android:layout_weight="1"/>    
+    </LinearLayout> 
+
+  
+    <LinearLayout 
+    android:id="@+id/linearLayout2"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_alignParentBottom="true"
+    android:layout_marginBottom="100dp"    
+>
+
+
+
+        
+          <Button
+             android:id="@+id/button1"
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:layout_weight="1"
+             android:clickable="true"
+             android:layout_marginRight="5dp"
+             android:layout_marginLeft="5dp"             
+             android:onClick="ListaClick"
+             android:textStyle="bold"
+             android:background="@drawable/botao01"
+             android:textColor="#FFFFFF"
+             android:paddingLeft="5dp"
+             android:paddingRight="5dp"
+             android:lines="1"
+             android:text="" />     
+
+        
+        
+  </LinearLayout>
+    
+</RelativeLayout>

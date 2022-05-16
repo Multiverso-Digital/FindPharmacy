@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Find Pharmacy</string>
+    <string name="title_activity_pega_cida">Find Pharmacy</string>
+    <string name="title_activity_mostra_web">Find Pharmacy</string>
+    <string name="action_tips">tips</string>
+    <string name="action_map">map</string>
+    <string name="action_refresh">refresh</string>
+    <string name="action_about">about</string>
+    <string name="action_idioma">Set English</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="enable_gps_dialog">GPS provider not enabled. Would you like to enable it?</string>
+    <string name="no_gps_support">GPS provider not supported</string>
+    <string name="no_network_support">Network provider not supported</string>
+    <string name="locationfind">location to find (click button)</string>
+    <string name="searchanother">search new location</string>
+    <string name="carregando">getting your location</string>
+    <string name="carregandooutro">getting new location</string>
+    <string name="carregandoplaces">loading places from Yelp, Foursquare, Google and Nokia</string>
+    <string name="carregandoselecionado">loading selected place</string>
+    <string name="carregandoplacesfs">loading recommended places from Yelp and Foursquare</string>
+    <string name="interneterror">Internet Connection Error</string>
+    <string name="interneterrorpede">Please connect to working Internet connection</string>
+    <string name="localindisponivel">Location not available</string>
+    <string name="localdigita">You did not enter a location to find</string>
+    <string name="cidadigita">You did not enter a city name to find</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_sobre">About</string>
+    <string name="title_activity_pega_sugestao">Foursquare and Yelp recommended places nearby</string>
+    <string name="title_activity_mapa_geral">Map</string>
+    <string name="title_activity_detalhe_fs">Selected place</string>
+    <string name="title_activity_foto_fs">Foursquare Photos</string>
+    <string name="title_activity_foto_go">Google photos</string>
+    <string name="title_activity_tips_fs">Foursquare reviews</string>
+    <string name="title_activity_tips_go">Google reviews</string>
+    <string name="carregandofotos">loading photos</string>
+    <string name="carregandoreviews">loading reviews</string>
+    <string name="title_activity_foto_nk">Nokia photos</string>
+    <string name="title_activity_foto_grande">Photo selected</string>
+    <string name="title_activity_tab_det">Place selected</string>
+    <string name="semfoto">no photo from this place</string>
+    <string name="semtips">no reviews from this place</string>
+    <string name="semfotocab">Photos</string>
+    <string name="semtipscab">Reviews</string>
+    <string name="mapatab">Map</string>
+    <string name="fototab">Photos</string>
+    <string name="tipstab">Reviews</string>
+    <string name="sugetab">Tips</string>
+    <string name="politica">privacy policy</string>
+    <string name="google">data from Google</string>
+    <string name="foursquare">data from Foursquare</string>
+    <string name="nokia">data from Nokia</string>
+    <string name="yelp">data from Yelp</string>
+    <string name="title_activity_detalhe_yelp">DetalheYelpActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_foto_yelp">FotoYelpActivity</string>
+    <string name="title_activity_web_tips">Web Tips</string>
+
+</resources>

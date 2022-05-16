@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Android_Studio_Projetos\FindPharmacy\app\build\intermediates\pre-dexed\release\support-annotations-20.0.0-2f77bf6c549c8c53e0ee9eb660a18e31ea4d8a21.jar"
+        jar="C:\android_studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Android_Studio_Projetos\FindPharmacy\app\build\intermediates\pre-dexed\release\internal_impl-20.0.0-416690dfa9e9daf26a48e6aae1e04a398583ef74.jar"
+        jar="C:\Android_Studio_Projetos\FindPharmacy\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Android_Studio_Projetos\FindPharmacy\app\build\intermediates\pre-dexed\release\classes-97c7671fde334bd9da398970173800b36c12bb77.jar"
+        jar="C:\Android_Studio_Projetos\FindPharmacy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.89\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa"/>
+    <item
+        dex="C:\Android_Studio_Projetos\FindPharmacy\app\build\intermediates\pre-dexed\release\classes-1b61b28618fb93db590dc8793742c992b746d4b5.jar"
+        jar="C:\Android_Studio_Projetos\FindPharmacy\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="C:\Android_Studio_Projetos\FindPharmacy\app\build\intermediates\pre-dexed\release\httpclientandroidlib-1.1.2-dbb05c2f10899b7d8a05b45cc5c489c6eadf135f.jar"
+        jar="C:\Android_Studio_Projetos\FindPharmacy\app\libs\httpclientandroidlib-1.1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f99f6cea6f64a886121fdc67f5631bc323d50c20"/>
+    <item
+        dex="C:\Android_Studio_Projetos\FindPharmacy\app\build\intermediates\pre-dexed\release\android-smart-image-view-1.0.0-f2552aa636f705b5668a6115b9681dc1beaa3030.jar"
+        jar="C:\Android_Studio_Projetos\FindPharmacy\app\libs\android-smart-image-view-1.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d76ea8c3e9a60101244d6d04aff8cc75888570f0"/>
+    <item
+        dex="C:\Android_Studio_Projetos\FindPharmacy\app\build\intermediates\pre-dexed\release\scribe-1.3.0-973c222250e60a2eecd3c6134f54e9e6e3b2ea2b.jar"
+        jar="C:\Android_Studio_Projetos\FindPharmacy\app\libs\scribe-1.3.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8a9f92023995a881e97622f82a2dd36d23dda06c"/>
+    <item
+        dex="C:\Android_Studio_Projetos\FindPharmacy\app\build\intermediates\pre-dexed\release\classes-c0e61ba9cb6f3c43e8cdf6f575d1dddadd8a6d05.jar"
+        jar="C:\Android_Studio_Projetos\FindPharmacy\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>

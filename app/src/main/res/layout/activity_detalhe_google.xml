@@ -1,0 +1,182 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+    
+
+<TextView
+    android:id="@+id/tnome"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:textSize="15dp"
+    android:textStyle="bold"
+    android:paddingLeft="5dp"
+    android:textColor="@color/texto"
+       
+    android:text="" />
+
+<TextView
+    android:id="@+id/tende"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/tnome"
+    android:textSize="14dp"
+    android:paddingLeft="5dp"
+    android:textColor="#000000"
+    android:text="" />
+
+<TextView
+    android:id="@+id/ttel"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/tende"
+    android:textSize="12dp"
+    android:textColor="#FF0000"
+    android:minLines="2"
+    android:paddingLeft="5dp"
+    android:text="" />
+
+
+<LinearLayout 
+    android:id="@+id/linear1"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    
+    android:layout_below="@id/ttel"  >
+
+  
+<ImageView
+	android:id="@+id/imauser"
+	android:layout_width="0dp"
+	android:layout_height="50dp"
+    android:layout_weight="1"
+	android:src="@drawable/user"/>
+
+<ImageView
+	android:id="@+id/imacheckin"
+	android:layout_width="0dp"
+	android:layout_height="50dp"
+    android:layout_weight="1"
+    android:src="@drawable/checkin"/>
+
+<ImageView
+	android:id="@+id/imalike"
+	android:layout_width="0dp"
+	android:layout_height="50dp"
+    android:layout_weight="1"
+	android:src="@drawable/like"/>	 
+	 
+</LinearLayout>
+
+
+<LinearLayout 
+    android:id="@+id/linear2"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_below="@+id/linear1"
+   android:gravity="center_horizontal"  >
+
+<TextView
+    android:id="@+id/tuser"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:textSize="12dp"
+    
+    android:layout_weight="1"
+    
+    android:text="0" />
+
+<TextView
+    android:id="@+id/tcheck"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:textStyle="bold"
+    android:textSize="14dp"
+    android:text="0" />
+
+<TextView
+    android:id="@+id/tlike"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"  
+    android:textStyle="bold"
+    android:textSize="14dp"
+    android:layout_weight="1"
+    android:text="0" />
+
+</LinearLayout>
+
+
+
+
+
+<LinearLayout 
+    android:id="@+id/linear3"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="50dp"
+    android:layout_centerVertical="true"
+    android:layout_below="@id/linear2"  >
+<ImageView
+	android:id="@+id/imalike10"
+	android:layout_width="0dp"
+	android:layout_height="50dp"
+    android:layout_weight="1"
+    android:onClick="pegagoogle"
+	android:src="@drawable/google"/>	 
+
+	 
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+<LinearLayout 
+    android:id="@+id/linear4"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:layout_centerVertical="true"
+    android:layout_below="@id/linear3"  >
+<WebView
+	android:id="@+id/webview"
+	android:layout_width="0dip"
+	android:layout_height="match_parent"
+	android:layout_gravity="center_vertical"
+	android:layout_weight="1"
+	android:clickable="true"
+	android:onClick="Mapaclick"
+	/>
+
+	 
+</LinearLayout>
+
+
+
+
+
+
+</RelativeLayout>
+
+
+    
+
+

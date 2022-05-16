@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Find Pharmacy</string>
+    <string name="title_activity_pega_cida">Find Pharmacy</string>
+    <string name="title_activity_mostra_web">Find Pharmacy</string> 
+    
+    <string name="action_tips">recomendado</string>
+    <string name="action_map">mapa</string>
+    <string name="action_refresh">actualizar</string>
+    <string name="action_about">por</string>
+    <string name="action_idioma">Set English</string>
+  
+    <string name="title_activity_tab">TabActivity</string>
+    
+    <string name="enable_gps">Habilitar GPS</string>
+    <string name="enable_gps_dialog">Proveedor de GPS no está activado. ¿Te gustaría poder?</string>
+    <string name="no_gps_support">Proveedor de GPS no está soportado</string>
+    <string name="no_network_support">Proveedor de red no está soportado</string>
+    <string name="locationfind">buscar en este sitio (pulse el botón)</string>
+    <string name="searchanother">buscar otra ubicación</string>
+    <string name="carregando">buscar su ubicación</string>
+    <string name="carregandooutro">buscar outra ubicación</string>
+    <string name="carregandoplaces">cargando lugares de Yelp, Foursquare, Google y Nokia</string>
+    <string name="carregandoselecionado">cargando lugar seleccionado</string>
+    <string name="carregandoplacesfs">Foursquare and Yelp - cargando lugares recomendados</string>
+    <string name="interneterror">Error de conexión a Internet</string>
+    <string name="interneterrorpede">Conéctese a una conexión activa a Internet</string>
+    <string name="localindisponivel">Ubicación no disponible</string>
+    <string name="localdigita">Usted no ha ingresado un lugar para encontrar</string>
+    <string name="cidadigita">No has escrito el nombre de la ciudad para encontrar</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_sobre">Por</string>
+  
+    <string name="title_activity_pega_sugestao">Foursquare and Yelp- lugares cercanos recomendados</string>
+    <string name="title_activity_mapa_geral">Mapa</string>
+    <string name="title_activity_detalhe_fs">lugar seleccionado</string>
+    <string name="title_activity_foto_fs">Foursquare fotos</string>
+    <string name="title_activity_foto_go">Google fotos</string>
+    <string name="title_activity_tips_fs">Comentarios</string>
+    <string name="title_activity_tips_go">Google comentarios</string>
+    <string name="carregandofotos">cargando fotos</string>
+    <string name="carregandoreviews">cargando cometarios</string>
+    <string name="title_activity_foto_nk">Nokia fotos</string>
+    <string name="title_activity_foto_grande">Foto selecionada</string>
+    <string name="title_activity_tab_det">Lugar selecionado</string>
+    <string name="semfoto">No hay fotos de este lugar</string>
+    <string name="semtips">no hay opiniones para este lugar</string>
+    <string name="semfotocab">Fotos</string>
+    <string name="semtipscab">Opiniones</string>
+    <string name="mapatab">Mapa</string>
+    <string name="fototab">Fotos</string>
+    <string name="tipstab">Opinión</string>
+    <string name="sugetab">consejos</string>
+    <string name="politica">política de privacidad</string>
+        <string name="google">data from Google</string>
+    <string name="foursquare">data from Foursquare</string>
+    <string name="nokia">data from Nokia</string>
+      <string name="yelp">data from Yelp</string>
+      
+          <string name="title_activity_detalhe_yelp">DetalheYelpActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_foto_yelp">FotoYelpActivity</string>
+    <string name="title_activity_web_tips">Web Tips</string>
+  
+
+</resources>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- From: file:/C:/Android_Studio_Projetos/FindPharmacy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/values-ru/values.xml -->
+    <eat-comment />
+
+    <string name="abc_action_bar_home_description" msgid="4600421777120114993">"Перейти на главный экран"</string>
+    <string name="abc_action_bar_up_description" msgid="1594238315039666878">"Перейти вверх"</string>
+    <string name="abc_action_menu_overflow_description" msgid="3588849162933574182">"Другие параметры"</string>
+    <string name="abc_action_mode_done" msgid="4076576682505996667">"Готово"</string>
+    <string name="abc_activity_chooser_view_see_all" msgid="7468859129482906941">"Показать все"</string>
+    <string name="abc_activitychooserview_choose_application" msgid="2031811694353399454">"Выбрать приложение"</string>
+    <string name="abc_searchview_description_clear" msgid="3691816814315814921">"Удалить запрос"</string>
+    <string name="abc_searchview_description_query" msgid="2550479030709304392">"Поисковый запрос"</string>
+    <string name="abc_searchview_description_search" msgid="8264924765203268293">"Поиск"</string>
+    <string name="abc_searchview_description_submit" msgid="8928215447528550784">"Отправить запрос"</string>
+    <string name="abc_searchview_description_voice" msgid="893419373245838918">"Голосовой поиск"</string>
+    <string name="abc_shareactionprovider_share_with" msgid="3421042268587513524">"Открыть доступ"</string>
+    <string name="abc_shareactionprovider_share_with_application" msgid="7165123711973476752">"Открыть доступ пользователю %s"</string>
+    <!-- From: file:/C:/Android_Studio_Projetos/FindPharmacy/app/src/main/res/values-ru/strings.xml -->
+    <eat-comment />
+
+    <string name="action_about">относительно</string>
+    <string name="action_idioma">Set English</string>
+    <string name="action_map">карта</string>
+    <string name="action_refresh">обновление</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_tips">чаевые</string>
+    <string name="app_name">Find Pharmacy</string>
+    <string name="carregando">получение вашего местоположения</string>
+    <string name="carregandofotos">loading Фото</string>
+    <string name="carregandooutro">получение другом месте</string>
+    <string name="carregandoplaces">загрузкой места из Yelp, Foursquare, Google and Nokia</string>
+    <string name="carregandoplacesfs">загрузкой рекомендуется места из Foursquare and Yelp</string>
+    <string name="carregandoreviews">Reviews Загрузка</string>
+    <string name="carregandoselecionado">загрузкой выбранном месте</string>
+    <string name="cidadigita">Вы не ввели название города, чтобы найти</string>
+    <!-- From: file:/C:/Android_Studio_Projetos/FindPharmacy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/res/values-ru/common_strings.xml -->
+    <eat-comment />
+
+    <string name="common_google_play_services_enable_button" msgid="4181637455539816337">"Включить"</string>
+    <string name="common_google_play_services_enable_text" msgid="7627896071867667758">"Для работы этого приложения требуется включить Сервисы Google Play."</string>
+    <string name="common_google_play_services_enable_title" msgid="529078775174559253">"Включите Сервисы Google Play"</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg" msgid="2443362625939284971">"Источник запроса: <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string name="common_google_play_services_install_button" msgid="8515591849428043265">"Установить"</string>
+    <string name="common_google_play_services_install_text_phone" msgid="8685301130651051380">"Для работы этого приложения требуется установить Сервисы Google Play."</string>
+    <string name="common_google_play_services_install_text_tablet" msgid="1589957570365247855">"Для работы этого приложения требуется установить Сервисы Google Play."</string>
+    <string name="common_google_play_services_install_title" msgid="26645092511305524">"Установите Сервисы Google Play"</string>
+    <string name="common_google_play_services_invalid_account_text" msgid="4983316348021735578">"Этого аккаунта нет на устройстве. Выберите другой."</string>
+    <string name="common_google_play_services_invalid_account_title" msgid="1066672360770936753">"Недействительный аккаунт"</string>
+    <string name="common_google_play_services_needs_enabling_title" msgid="2583358409598976717">"Для работы приложения требуется включить сервисы Google Play"</string>
+    <string name="common_google_play_services_network_error_text" msgid="9038847255613537209">"Для работы с Google Play требуется подключение к сети."</string>
+    <string name="common_google_play_services_network_error_title" msgid="3827284619958211114">"Ошибка сети"</string>
+    <string name="common_google_play_services_notification_needs_installation_title" msgid="8120534356798772974">"Для работы приложения требуется установить сервисы Google Play"</string>
+    <string name="common_google_play_services_notification_needs_update_title" msgid="1388129345631079938">"Для работы приложения требуется обновить сервисы Google Play"</string>
+    <string name="common_google_play_services_notification_ticker" msgid="1852570676146674985">"Ошибка сервисов Google Play"</string>
+    <string name="common_google_play_services_unknown_issue" msgid="4762332809710093730">"Неизвестная ошибка с Сервисами Google Play."</string>
+    <string name="common_google_play_services_unsupported_date_text" msgid="4725396522367789365">"Проверьте правильность даты, указанной на устройстве."</string>
+    <string name="common_google_play_services_unsupported_text" msgid="3542578567569488671">"Сервисы Google Play, необходимые для работы некоторых приложений, не поддерживаются на вашем устройстве. Обратитесь к производителю."</string>
+    <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Сервисы Google Play"</string>
+    <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Обновить"</string>
+    <string name="common_google_play_services_update_text" msgid="448354684997260580">"Для работы этого приложения требуется обновить Сервисы Google Play."</string>
+    <string name="common_google_play_services_update_title" msgid="6006316683626838685">"Обновите Сервисы Google Play"</string>
+    <string name="common_signin_button_text" msgid="9071884888741449141">"Войти"</string>
+    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Войти в аккаунт Google"</string>
+    <!-- From: file:/C:/Android_Studio_Projetos/FindPharmacy/app/src/main/res/values-ru/strings.xml -->
+    <eat-comment />
+
+    <string name="enable_gps">Включить GPS</string>
+    <string name="enable_gps_dialog">GPS поставщик не включен. Хотите включить его?</string>
+    <string name="fototab">Фото</string>
+    <string name="foursquare">data from Foursquare</string>
+    <string name="google">data from Google</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="interneterror">Ошибка подключения к Интернету</string>
+    <string name="interneterrorpede">Пожалуйста, подключитесь к работающее подключение к Интернет</string>
+    <string name="localdigita">Вы не ввели место, чтобы найти</string>
+    <string name="localindisponivel">Расположение не доступна</string>
+    <string name="locationfind">место, чтобы найти (нажмите кнопку)</string>
+    <string name="mapatab">карта</string>
+    <string name="no_gps_support">GPS поставщик не поддерживается</string>
+    <string name="no_network_support">Оператора сети не поддерживается</string>
+    <string name="nokia">data from Nokia</string>
+    <string name="politica">Политика конфиденциальности</string>
+    <string name="searchanother">искать другое место</string>
+    <string name="semfoto">Нет фото с этого места</string>
+    <string name="semfotocab">Фото</string>
+    <string name="semtips">Нет отзывов от этого места</string>
+    <string name="semtipscab">отзывы</string>
+    <string name="sugetab">чаевые</string>
+    <string name="tipstab">отзывы</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_detalhe_fs">выбранном месте</string>
+    <string name="title_activity_detalhe_yelp">DetalheYelpActivity</string>
+    <string name="title_activity_foto_fs">Foursquare Фото</string>
+    <string name="title_activity_foto_go">Google Фото</string>
+    <string name="title_activity_foto_grande">Фото selected</string>
+    <string name="title_activity_foto_nk">Nokia Фото</string>
+    <string name="title_activity_foto_yelp">FotoYelpActivity</string>
+    <string name="title_activity_mapa_geral">карта</string>
+    <string name="title_activity_mostra_web">Find Pharmacy</string>
+    <string name="title_activity_pega_cida">Find Pharmacy</string>
+    <string name="title_activity_pega_sugestao">Foursquare and Yelp pекомендуется мест поблизости</string>
+    <string name="title_activity_sobre">относительно</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="title_activity_tab_det">Местом</string>
+    <string name="title_activity_tips_fs">Foursquare отзывы</string>
+    <string name="title_activity_tips_go">Google отзывы</string>
+    <string name="title_activity_web_tips">Web Tips</string>
+    <string name="yelp">data from Yelp</string>
+
+</resources>

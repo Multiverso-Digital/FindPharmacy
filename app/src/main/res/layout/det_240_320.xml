@@ -1,0 +1,162 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".DetalheFSActivity" >
+        
+ <AbsoluteLayout 	
+     android:id="@+id/widget48"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">  
+    
+    
+<RelativeLayout
+	android:id="@+id/widget80"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_x="3dp"
+	android:layout_y="3dp">
+</RelativeLayout>
+
+<TextView
+    android:id="@+id/tnome"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_x="10dp"
+    android:layout_y="5dp"
+    android:textSize="14dp"
+    android:textStyle="bold"
+    android:textColor="@color/textotip"
+    android:minLines="2"    
+    android:text="nome" />
+
+<TextView
+    android:id="@+id/tende"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_x="10dp"
+    android:layout_y="34dp"
+    android:textSize="12dp"
+    android:minLines="2"    
+    android:textColor="@color/textotip"
+    android:text="ende" />
+
+<TextView
+    android:id="@+id/ttel"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_x="10dp"
+    android:layout_y="60dp"
+    android:textSize="12dp"
+    android:textColor="@color/textotip"
+    android:text="fone" />
+
+	 />
+<ImageView
+	android:id="@+id/imauser"
+	android:layout_width="60dp"
+	android:layout_height="60dp"
+	android:layout_x="15dp"
+	android:layout_y="98dp" 
+	 android:src="@drawable/user"/>
+<ImageView
+	android:id="@+id/imacheckin"
+	android:layout_width="60dp"
+	android:layout_height="60dp"
+	android:layout_x="134dp"
+	android:layout_y="98dp" 
+	 android:src="@drawable/checkin"/>
+<ImageView
+	android:id="@+id/imalike"
+	android:layout_width="60dp"
+	android:layout_height="60dp"
+	android:layout_x="251dp"
+	android:layout_y="98dp" 
+	android:src="@drawable/like"/>	 
+	 
+<ImageButton
+	android:id="@+id/widget95"
+	android:layout_width="302dp"
+	android:layout_height="70dp"
+	android:layout_x="9dp"
+	android:layout_y="188dp" 
+	android:onClick="Mapaclick"
+	 android:background="@color/textotip"
+	android:src="@drawable/locationmap" />	 
+	 
+	 
+
+<TextView
+    android:id="@+id/tfoto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_x="50dp"
+    android:layout_y="348dp"
+        android:gravity="center_vertical"
+    android:textSize="18dp"
+    android:textStyle="bold"
+    android:text="0" />
+
+<TextView
+    android:id="@+id/treview"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_x="155dp"
+    android:layout_y="348dp"
+        android:gravity="center_vertical"
+    android:textSize="18dp"
+    android:textStyle="bold"
+    android:text="0" />
+
+<TextView
+    android:id="@+id/tespecial"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_x="260dp"
+    android:layout_y="348dp"
+        android:gravity="center_vertical"
+    android:textSize="18dp"
+    android:textStyle="bold"
+    android:text="0" />
+
+<TextView
+    android:id="@+id/tuser"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_x="40dp"
+    android:layout_y="157dp"
+    android:gravity="center_vertical"
+    android:textSize="18dp"
+    android:textStyle="bold"
+    android:text="0" />
+
+<TextView
+    android:id="@+id/tcheck"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_x="152dp"
+    android:layout_y="157dp"
+    android:gravity="center_vertical"
+    android:textStyle="bold"
+    android:textSize="18dp"
+    android:text="0" />
+
+<TextView
+    android:id="@+id/tlike"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_x="272dp"
+    android:layout_y="157dp"
+    android:gravity="center_vertical"   
+    android:textStyle="bold"
+    android:textSize="18dp"
+    android:text="0" />
+
+</AbsoluteLayout>
+
+
+
+    
+
+</RelativeLayout>

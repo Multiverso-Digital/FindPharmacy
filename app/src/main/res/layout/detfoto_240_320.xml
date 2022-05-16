@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+	android:id="@+id/widget0"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+<com.loopj.android.image.SmartImageView
+	android:id="@+id/imausu_2"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:src="@drawable/about"
+	android:layout_x="160dp"
+	android:layout_y="164dp" />
+
+<TextView
+	android:id="@+id/tusu2"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="usu 2"
+	android:layout_x="160dp"
+	android:layout_y="225dp" />
+<TextView
+	android:id="@+id/tdata2"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="data 2"
+	android:layout_x="160dp"
+	android:layout_y="245dp" />
+<TextView
+	android:id="@+id/tusu1"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="usu 1"
+	android:layout_x="160dp"
+	android:layout_y="80dp" />
+<TextView
+	android:id="@+id/tdata1"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="data 1"
+	android:layout_x="160dp"
+	android:layout_y="100dp" />
+<TextView
+	android:id="@+id/tnome"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:text="nome do lugar"
+	android:layout_x="5dp"
+	android:textSize="14dp"
+    android:textStyle="bold"
+    android:textColor="@color/textotip"	
+	android:layout_y="1dp" />
+
+
+
+
+<LinearLayout 
+    android:id="@+id/line"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" 
+    android:background="@color/textotip"
+    android:orientation="horizontal" 
+    android:paddingBottom="5dp"
+    android:paddingTop="5dp"
+    android:layout_y="335dp"
+    
+     
+    >
+
+
+
+
+
+</LinearLayout>
+
+</AbsoluteLayout>

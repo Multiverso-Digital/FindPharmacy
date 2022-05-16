@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textoende">#000000</color>
+    <color name="texto">#990000</color>
+ <color name="textotip">#990000</color>
+ <color name="transparent">#000000</color> 
+ <color name="abanormal">#999999</color>
+  
+ 
+ 
+ 
+</resources>

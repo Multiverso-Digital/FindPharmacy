@@ -1,0 +1,243 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* FindPharmacy.apk
+* chave_farma
+* graficos\
+* graficos\FindPizza.txt
+* graficos\alemao\
+* graficos\alemao\tela01.png
+* graficos\alemao\tela02.png
+* graficos\alemao\tela03.png
+* graficos\alemao\tela04.png
+* graficos\alemao\tela05.png
+* graficos\alemao\tela06.png
+* graficos\alemao\tela07.png
+* graficos\alemao\tela08.png
+* graficos\arabe\
+* graficos\arabe\ar_tela01.png
+* graficos\arabe\ar_tela02.png
+* graficos\arabe\ar_tela03.png
+* graficos\arabe\ar_tela04.png
+* graficos\arabe\ar_tela05.png
+* graficos\arabe\ar_tela06.png
+* graficos\arabe\ar_tela07.png
+* graficos\arabe\ar_tela08.png
+* graficos\arabe\promo.png
+* graficos\arabe\promo120.png
+* graficos\chines\
+* graficos\chines\ch_tela01.png
+* graficos\chines\ch_tela02.png
+* graficos\chines\ch_tela03.png
+* graficos\chines\ch_tela04.png
+* graficos\chines\ch_tela05.png
+* graficos\chines\ch_tela06.png
+* graficos\chines\ch_tela07.png
+* graficos\chines\ch_tela08.png
+* graficos\chines\promo.png
+* graficos\chines\promo120.png
+* graficos\espanhol\
+* graficos\espanhol\es_tela01.png
+* graficos\espanhol\es_tela02.png
+* graficos\espanhol\es_tela03.png
+* graficos\espanhol\es_tela04.png
+* graficos\espanhol\es_tela05.png
+* graficos\espanhol\es_tela06.png
+* graficos\espanhol\es_tela07.png
+* graficos\espanhol\es_tela08.png
+* graficos\espanhol\promo.png
+* graficos\espanhol\promo120.png
+* graficos\frances\
+* graficos\frances\fr_tela01.png
+* graficos\frances\fr_tela02.png
+* graficos\frances\fr_tela03.png
+* graficos\frances\fr_tela04.png
+* graficos\frances\fr_tela05.png
+* graficos\frances\fr_tela06.png
+* graficos\frances\fr_tela07.png
+* graficos\frances\fr_tela08.png
+* graficos\frances\promo.png
+* graficos\frances\promo120.png
+* graficos\hindi\
+* graficos\hindi\hi_tela01.png
+* graficos\hindi\hi_tela02.png
+* graficos\hindi\hi_tela03.png
+* graficos\hindi\hi_tela04.png
+* graficos\hindi\hi_tela05.png
+* graficos\hindi\hi_tela06.png
+* graficos\hindi\hi_tela07.png
+* graficos\hindi\hi_tela08.png
+* graficos\hindi\promo.png
+* graficos\hindi\promo120.png
+* graficos\ic_launcher (6).zip
+* graficos\icone.png
+* graficos\ingles\
+* graficos\ingles\10tab_en_tela01.png
+* graficos\ingles\10tab_en_tela02.png
+* graficos\ingles\10tab_en_tela03.png
+* graficos\ingles\10tab_en_tela04.png
+* graficos\ingles\10tab_en_tela05.png
+* graficos\ingles\10tab_en_tela06.png
+* graficos\ingles\10tab_en_tela07.png
+* graficos\ingles\10tab_en_tela08.png
+* graficos\ingles\device-2013-06-17-104425.png
+* graficos\ingles\device-2013-06-17-105728.png
+* graficos\ingles\en_tela01.png
+* graficos\ingles\en_tela02.png
+* graficos\ingles\en_tela03.png
+* graficos\ingles\en_tela04.png
+* graficos\ingles\en_tela05.png
+* graficos\ingles\en_tela06.png
+* graficos\ingles\en_tela07.png
+* graficos\ingles\en_tela08.png
+* graficos\ingles\promo.png
+* graficos\ingles\promo120.png
+* graficos\ingles\tab_en_tela01.png
+* graficos\ingles\tab_en_tela02.png
+* graficos\ingles\tab_en_tela03.png
+* graficos\ingles\tab_en_tela04.png
+* graficos\ingles\tab_en_tela05.png
+* graficos\ingles\tab_en_tela06.png
+* graficos\ingles\tab_en_tela07.png
+* graficos\ingles\tab_en_tela08.png
+* graficos\japones\
+* graficos\japones\ja_tela01.png
+* graficos\japones\ja_tela02.png
+* graficos\japones\ja_tela03.png
+* graficos\japones\ja_tela04.png
+* graficos\japones\ja_tela05.png
+* graficos\japones\ja_tela06.png
+* graficos\japones\ja_tela07.png
+* graficos\japones\ja_tela08.png
+* graficos\japones\promo.png
+* graficos\japones\promo120.png
+* graficos\koreano\
+* graficos\koreano\tela01.png
+* graficos\koreano\tela02.png
+* graficos\koreano\tela03.png
+* graficos\koreano\tela04.png
+* graficos\koreano\tela05.png
+* graficos\koreano\tela06.png
+* graficos\koreano\tela07.png
+* graficos\koreano\tela08.png
+* graficos\portugues\
+* graficos\portugues\10tab_pt_tela01.png
+* graficos\portugues\10tab_pt_tela02.png
+* graficos\portugues\10tab_pt_tela03.png
+* graficos\portugues\10tab_pt_tela04.png
+* graficos\portugues\10tab_pt_tela05.png
+* graficos\portugues\10tab_pt_tela06.png
+* graficos\portugues\10tab_pt_tela07.png
+* graficos\portugues\promo.png
+* graficos\portugues\promo120.png
+* graficos\portugues\pt_tela01.png
+* graficos\portugues\pt_tela02.png
+* graficos\portugues\pt_tela03.png
+* graficos\portugues\pt_tela04.png
+* graficos\portugues\pt_tela05.png
+* graficos\portugues\pt_tela06.png
+* graficos\portugues\pt_tela07.png
+* graficos\portugues\pt_tela08.png
+* graficos\portugues\tab_pt_tela01.png
+* graficos\portugues\tab_pt_tela02.png
+* graficos\portugues\tab_pt_tela03.png
+* graficos\portugues\tab_pt_tela04.png
+* graficos\portugues\tab_pt_tela05.png
+* graficos\portugues\tab_pt_tela06.png
+* graficos\portugues\tab_pt_tela07.png
+* graficos\portugues\tab_pt_tela08.png
+* graficos\promo.png
+* graficos\promo120.png
+* graficos\res\
+* graficos\res\drawable-hdpi\
+* graficos\res\drawable-hdpi\ic_launcher.png
+* graficos\res\drawable-mdpi\
+* graficos\res\drawable-mdpi\ic_launcher.png
+* graficos\res\drawable-xhdpi\
+* graficos\res\drawable-xhdpi\ic_launcher.png
+* graficos\res\drawable-xxhdpi\
+* graficos\res\drawable-xxhdpi\ic_launcher.png
+* graficos\russo\
+* graficos\russo\promo.png
+* graficos\russo\promo120.png
+* graficos\russo\ru_tela01.png
+* graficos\russo\ru_tela02.png
+* graficos\russo\ru_tela03.png
+* graficos\russo\ru_tela04.png
+* graficos\russo\ru_tela05.png
+* graficos\russo\ru_tela06.png
+* graficos\russo\ru_tela07.png
+* graficos\russo\ru_tela08.png
+* graficos\web_hi_res_512.png
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:+
+android-support-v7-appcompat.jar => com.android.support:appcompat-v7:+
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+android-support-v7-appcompat => [com.android.support:appcompat-v7:+]
+google-play-services_lib => [com.google.android.gms:play-services:+]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\android-smart-image-view-1.0.0.jar => app\libs\android-smart-image-view-1.0.0.jar
+* libs\httpclientandroidlib-1.1.2.jar => app\libs\httpclientandroidlib-1.1.2.jar
+* libs\scribe-1.3.0.jar => app\libs\scribe-1.3.0.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

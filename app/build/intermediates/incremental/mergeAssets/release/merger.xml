@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="C:\Android_Studio_Projetos\FindPharmacy\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\assets" />
+    </dataSet>
+    <dataSet config="20.0.0" >
+        <source path="C:\Android_Studio_Projetos\FindPharmacy\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\assets" />
+    </dataSet>
+    <dataSet config="5.0.89" >
+        <source path="C:\Android_Studio_Projetos\FindPharmacy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.89\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Android_Studio_Projetos\FindPharmacy\app\src\main\assets" >
+            <file
+                name="ic_launcher.png"
+                path="C:\Android_Studio_Projetos\FindPharmacy\app\src\main\assets\ic_launcher.png" />
+            <file
+                name="politica_privacidade_ar-AR.html"
+                path="C:\Android_Studio_Projetos\FindPharmacy\app\src\main\assets\politica_privacidade_ar-AR.html" />
+            <file
+                name="politica_privacidade_de-DE.html"
+                path="C:\Android_Studio_Projetos\FindPharmacy\app\src\main\assets\politica_privacidade_de-DE.html" />
+            <file
+                name="politica_privacidade_en-US.html"
+                path="C:\Android_Studio_Projetos\FindPharmacy\app\src\main\assets\politica_privacidade_en-US.html" />
+            <file
+                name="politica_privacidade_es-ES.html"
+                path="C:\Android_Studio_Projetos\FindPharmacy\app\src\main\assets\politica_privacidade_es-ES.html" />
+            <file
+                name="politica_privacidade_fr-FR.html"
+                path="C:\Android_Studio_Projetos\FindPharmacy\app\src\main\assets\politica_privacidade_fr-FR.html" />
+            <file
+                name="politica_privacidade_hi-HI.html"
+                path="C:\Android_Studio_Projetos\FindPharmacy\app\src\main\assets\politica_privacidade_hi-HI.html" />
+            <file
+                name="politica_privacidade_ja-JP.html"
+                path="C:\Android_Studio_Projetos\FindPharmacy\app\src\main\assets\politica_privacidade_ja-JP.html" />
+            <file
+                name="politica_privacidade_ko-KO.html"
+                path="C:\Android_Studio_Projetos\FindPharmacy\app\src\main\assets\politica_privacidade_ko-KO.html" />
+            <file
+                name="politica_privacidade_pt-BR.html"
+                path="C:\Android_Studio_Projetos\FindPharmacy\app\src\main\assets\politica_privacidade_pt-BR.html" />
+            <file
+                name="politica_privacidade_ru-RU.html"
+                path="C:\Android_Studio_Projetos\FindPharmacy\app\src\main\assets\politica_privacidade_ru-RU.html" />
+            <file
+                name="politica_privacidade_zh-CH.html"
+                path="C:\Android_Studio_Projetos\FindPharmacy\app\src\main\assets\politica_privacidade_zh-CH.html" />
+        </source>
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\Android_Studio_Projetos\FindPharmacy\app\src\release\assets" />
+    </dataSet>
+
+</merger>
